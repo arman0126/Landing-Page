@@ -8,7 +8,7 @@ A clean, responsive landing page built using **HTML** and **CSS**. This project 
 
 ## 📸 Preview
 
-![Landing Page Screenshot](preview.png) <!-- Replace with actual screenshot file if available -->
+![Landing Page Screenshot](Screenshot 2025-05-19 005511.png) <!-- Replace with actual screenshot file if available -->
 
 ## ✨ Features
 
