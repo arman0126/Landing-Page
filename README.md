@@ -31,7 +31,7 @@ A clean, responsive landing page built using **HTML** and **CSS**. This project 
    ```bash
    git clone https://github.com/arman0126/Landing-Page.git
 
----
+----
 
 Let me know if you'd like me to include:
 - A **preview image** or GIF,
